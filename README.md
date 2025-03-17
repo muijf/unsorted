@@ -1,6 +1,5 @@
-This is a collection of unsorted packages with useful functions and types that are not yet in their own package.
+A collection of unsorted utilities that don't have their own package yet.
 
 ## Packages
 
 - [Utils](./packages/utils)
-
