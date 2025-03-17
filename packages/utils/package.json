@@ -3,17 +3,16 @@
   "version": "0.0.0",
   "description": "Contains unsorted useful functions and types that are not yet in their own package.",
   "keywords": [
-    "filter",
-    "object"
+    "utils"
   ],
-  "homepage": "https://github.com/muijf/filterkit",
+  "homepage": "https://github.com/muijf/unsorted",
   "bugs": {
-    "url": "https://github.com/muijf/filterkit/issues"
+    "url": "https://github.com/muijf/unsorted/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/muijf/filterkit.git",
-    "directory": "packages/object"
+    "url": "git+https://github.com/muijf/unsorted.git",
+    "directory": "packages/utils"
   },
   "license": "MIT",
   "author": "Muijf <contact@muijf.com>",
